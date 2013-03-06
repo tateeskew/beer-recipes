@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><RECIPES>
+<RECIPE>
+ <NAME>Saison Ginger</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>All Grain</TYPE>
+ <BREWER>Tate @ Vita Brevis Brewing Co.</BREWER>
+ <ASST_BREWER></ASST_BREWER>
+ <BATCH_SIZE>37.8543360</BATCH_SIZE>
+ <BOIL_SIZE>50.8762276</BOIL_SIZE>
+ <BOIL_TIME>60.0000000</BOIL_TIME>
+ <EFFICIENCY>72.0000000</EFFICIENCY>
+ <HOPS>
+<HOP>
+ <NAME>Bravo</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>15.5000000</ALPHA>
+ <AMOUNT>0.0141747</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>60.0000000</TIME>
+ <NOTES>A second generation super high alpha hops from the Hopsteiner breeding program released in 2006.  Good bittering hop.
+Aroma: Fruity and floral aroma.
+Substitutes: Columbus, Zeus, Tomahawk</NOTES>
+ <TYPE>Bittering</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>3.5000000</BETA>
+ <HSI>30.0000000</HSI>
+ <DISPLAY_AMOUNT>0.50 oz</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 oz</INVENTORY>
+ <DISPLAY_TIME>60.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Saaz</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>Czech Republic</ORIGIN>
+ <ALPHA>3.5000000</ALPHA>
+ <AMOUNT>0.0810797</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>30.0000000</TIME>
+ <NOTES>Used for: Pilsners and Bohemian style lagers
+Aroma: Delicate, mild, clean, somewhat floral -- Noble hops
+Substitutes: Tettnanger, Lublin
+Examples: Pulsner Urquell</NOTES>
+ <TYPE>Aroma</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>4.7000000</BETA>
+ <HSI>42.0000000</HSI>
+ <DISPLAY_AMOUNT>2.86 oz</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 oz</INVENTORY>
+ <DISPLAY_TIME>30.0 min</DISPLAY_TIME>
+</HOP>
+<HOP>
+ <NAME>Willamette</NAME>
+ <VERSION>1</VERSION>
+ <ORIGIN>U.S.</ORIGIN>
+ <ALPHA>5.5000000</ALPHA>
+ <AMOUNT>0.1081062</AMOUNT>
+ <USE>Boil</USE>
+ <TIME>5.0000000</TIME>
+ <NOTES>Used for: Finishing American and British Ales
+Aroma: Mild, grassy, floral, slightly spicy
+Substitutes: Fuggles, East Kent Goldings
+Examples: Sierra Nevada Porter, Ballard Bitter</NOTES>
+ <TYPE>Aroma</TYPE>
+ <FORM>Pellet</FORM>
+ <BETA>3.5000000</BETA>
+ <HSI>40.0000000</HSI>
+ <DISPLAY_AMOUNT>3.81 oz</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 oz</INVENTORY>
+ <DISPLAY_TIME>5.0 min</DISPLAY_TIME>
+</HOP>
+</HOPS>
+
+ <FERMENTABLES>
+<FERMENTABLE>
+ <NAME>Pilsner (2 Row) Bel</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>5.4431040</AMOUNT>
+ <YIELD>79.0000000</YIELD>
+ <COLOR>2.0000000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER></SUPPLIER>
+ <NOTES>Belgian base malt for Continental lagers</NOTES>
+ <COARSE_FINE_DIFF>1.5000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.0000000</MOISTURE>
+ <DIASTATIC_POWER>105.0000000</DIASTATIC_POWER>
+ <PROTEIN>10.5000000</PROTEIN>
+ <MAX_IN_BATCH>100.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>12 lbs</DISPLAY_AMOUNT>
+ <INVENTORY>0.0 oz</INVENTORY>
+ <POTENTIAL>1.0363400</POTENTIAL>
+ <DISPLAY_COLOR>2.0 SRM</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE>Pilsner Liquid Extract</EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>Munich Malt</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>2.2679600</AMOUNT>
+ <YIELD>80.0000000</YIELD>
+ <COLOR>5.0000000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Germany</ORIGIN>
+ <SUPPLIER></SUPPLIER>
+ <NOTES>Malty-sweet flavor characteristic and adds a reddish amber color to the beer.
+Does not contribute signficantly to body or head retention.
+Use for: Bock, Porter, Marzen, Oktoberfest beers</NOTES>
+ <COARSE_FINE_DIFF>1.3000000</COARSE_FINE_DIFF>
+ <MOISTURE>5.0000000</MOISTURE>
+ <DIASTATIC_POWER>72.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.5000000</PROTEIN>
+ <MAX_IN_BATCH>80.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>5 lbs</DISPLAY_AMOUNT>
+ <INVENTORY>0.0 oz</INVENTORY>
+ <POTENTIAL>1.0368000</POTENTIAL>
+ <DISPLAY_COLOR>5.0 SRM</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE>Amber Liquid Extract</EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>Wheat Malt, Bel</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Grain</TYPE>
+ <AMOUNT>0.9297238</AMOUNT>
+ <YIELD>81.0000000</YIELD>
+ <COLOR>2.0000000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER></SUPPLIER>
+ <NOTES>Malted wheat for use in Wheat beers</NOTES>
+ <COARSE_FINE_DIFF>1.5000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.0000000</MOISTURE>
+ <DIASTATIC_POWER>74.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.5000000</PROTEIN>
+ <MAX_IN_BATCH>60.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>TRUE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>2 lbs 0.8 oz</DISPLAY_AMOUNT>
+ <INVENTORY>0.0 oz</INVENTORY>
+ <POTENTIAL>1.0372600</POTENTIAL>
+ <DISPLAY_COLOR>2.0 SRM</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE>Wheat Liquid Extract</EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+<FERMENTABLE>
+ <NAME>Candi Sugar, Clear</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Sugar</TYPE>
+ <AMOUNT>0.9239425</AMOUNT>
+ <YIELD>78.3000000</YIELD>
+ <COLOR>0.5000000</COLOR>
+ <ADD_AFTER_BOIL>FALSE</ADD_AFTER_BOIL>
+ <ORIGIN>Belgium</ORIGIN>
+ <SUPPLIER></SUPPLIER>
+ <NOTES>Crystalized Candi Sugar (Sucrose) used in many Belgian Tripels, Dubbels, and holiday ales.  Adds head retention and sweet aroma to beer.  Darker variants also add color.</NOTES>
+ <COARSE_FINE_DIFF>1.5000000</COARSE_FINE_DIFF>
+ <MOISTURE>4.0000000</MOISTURE>
+ <DIASTATIC_POWER>120.0000000</DIASTATIC_POWER>
+ <PROTEIN>11.7000000</PROTEIN>
+ <MAX_IN_BATCH>20.0000000</MAX_IN_BATCH>
+ <RECOMMEND_MASH>FALSE</RECOMMEND_MASH>
+ <IBU_GAL_PER_LB>0.0000000</IBU_GAL_PER_LB>
+ <DISPLAY_AMOUNT>2 lbs 0.6 oz</DISPLAY_AMOUNT>
+ <INVENTORY>0.0 oz</INVENTORY>
+ <POTENTIAL>1.0360180</POTENTIAL>
+ <DISPLAY_COLOR>0.5 SRM</DISPLAY_COLOR>
+ <EXTRACT_SUBSTITUTE></EXTRACT_SUBSTITUTE>
+</FERMENTABLE>
+</FERMENTABLES>
+
+ <MISCS>
+<MISC>
+ <NAME>Ginger Root</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Herb</TYPE>
+ <USE>Boil</USE>
+ <AMOUNT>0.118295</AMOUNT>
+ <TIME>5.00</TIME>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <USE_FOR>Holiday Beer</USE_FOR>
+ <NOTES>Adds distinctive ginger flavor for Ginger Ales, Holiday Beers.  Fresh grated ginger root from the grocer is best.  As little as 1/2 ounce per 5 gallons is noticable, but up to 4 oz can be used for ginger ales.</NOTES>
+ <DISPLAY_AMOUNT>4.00 oz</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 oz</INVENTORY>
+ <DISPLAY_TIME>5.0 mins</DISPLAY_TIME>
+ <BATCH_SIZE>5.00 gal</BATCH_SIZE>
+</MISC>
+<MISC>
+ <NAME>Orange Peel, Bitter</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Spice</TYPE>
+ <USE>Boil</USE>
+ <AMOUNT>0.118295</AMOUNT>
+ <TIME>5.00</TIME>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <USE_FOR>Belgian Wit</USE_FOR>
+ <NOTES>Made from the Curaco Orange Peel, peels are green-gray in color.  Used to add a distinctive flavor to Belgian Wits and White beers.</NOTES>
+ <DISPLAY_AMOUNT>4.00 oz</DISPLAY_AMOUNT>
+ <INVENTORY>0.00 oz</INVENTORY>
+ <DISPLAY_TIME>5.0 mins</DISPLAY_TIME>
+ <BATCH_SIZE>5.00 gal</BATCH_SIZE>
+</MISC>
+</MISCS>
+
+ <YEASTS>
+<YEAST>
+ <NAME>Belgian Saison</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Ale</TYPE>
+ <FORM>Liquid</FORM>
+ <AMOUNT>0.1242095</AMOUNT>
+ <AMOUNT_IS_WEIGHT>FALSE</AMOUNT_IS_WEIGHT>
+ <LABORATORY>Wyeast Labs</LABORATORY>
+ <PRODUCT_ID>3724</PRODUCT_ID>
+ <MIN_TEMPERATURE>21.1111111</MIN_TEMPERATURE>
+ <MAX_TEMPERATURE>35.0000000</MAX_TEMPERATURE>
+ <FLOCCULATION>Low</FLOCCULATION>
+ <ATTENUATION>78.0000000</ATTENUATION>
+ <NOTES>Classic farmhouse ale yeast.  Spicy, complex aromatics including bubble gum.  Tart and dry on the palate with mild fruitiness.  Finishes crisp and mildly acidic.  Ferment at warm temperature.  May have vigorous fermentation start.</NOTES>
+ <BEST_FOR>Belgian Saison beer</BEST_FOR>
+ <MAX_REUSE>5</MAX_REUSE>
+ <TIMES_CULTURED>0</TIMES_CULTURED>
+ <ADD_TO_SECONDARY>FALSE</ADD_TO_SECONDARY>
+ <DISPLAY_AMOUNT>124.21 ml</DISPLAY_AMOUNT>
+ <DISP_MIN_TEMP>70.0 F</DISP_MIN_TEMP>
+ <DISP_MAX_TEMP>95.0 F</DISP_MAX_TEMP>
+ <INVENTORY>0.0 pkg</INVENTORY>
+ <CULTURE_DATE>06/14/2003</CULTURE_DATE>
+</YEAST>
+</YEASTS>
+
+ 
+ <STYLE>
+ <NAME>Saison</NAME>
+ <VERSION>1</VERSION>
+ <CATEGORY>Belgian and French Ale</CATEGORY>
+ <CATEGORY_NUMBER>16</CATEGORY_NUMBER>
+ <STYLE_LETTER>C</STYLE_LETTER>
+ <STYLE_GUIDE>BJCP 2008</STYLE_GUIDE>
+ <TYPE>Ale</TYPE>
+ <OG_MIN>1.0480000</OG_MIN>
+ <OG_MAX>1.0650000</OG_MAX>
+ <FG_MIN>1.0020000</FG_MIN>
+ <FG_MAX>1.0120000</FG_MAX>
+ <IBU_MIN>20.0000000</IBU_MIN>
+ <IBU_MAX>35.0000000</IBU_MAX>
+ <COLOR_MIN>5.0000000</COLOR_MIN>
+ <COLOR_MAX>14.0000000</COLOR_MAX>
+ <CARB_MIN>2.3000000</CARB_MIN>
+ <CARB_MAX>2.9000000</CARB_MAX>
+ <ABV_MAX>7.0000000</ABV_MAX>
+ <ABV_MIN>5.0000000</ABV_MIN>
+ <NOTES>A refreshing, medium to strong fruity/spicy ale with a distinctive yellow-orange color, highly carbonated, well hopped, and dry with a quenching acidity. A seasonal summer style produced in Wallonia, the French-speaking part of Belgium. Originally brewed at the end of the cool season to last through the warmer months before refrigeration was common. It had to be sturdy enough to last for months but not too strong to be quenching and refreshing in the summer. It is now brewed year-round in tiny, artisanal breweries whose buildings reflect their origins as farmhouses. Varying strength examples exist (table beers of about 5% strength, typical export beers of about 6.5%, and stronger versions of 8%+). Strong versions (6.5%-9.5%) and darker versions (copper to dark brown/black) should be entered as Belgian Specialty Ales (16E). Sweetness decreases and spice, hop and sour character increases with strength. Herb and spice additions often reflect the indigenous varieties available at the brewery. High carbonation and extreme attenuation (85-95%) helps bring out the many flavors and to increase the perception of a dry finish. All of these beers share somewhat higher levels of acidity than other Belgian styles while the optional sour flavor is often a variable house character of a particular brewery.</NOTES>
+ <PROFILE>Aroma: High fruitiness with low to moderate hop aroma and moderate to no herb, spice and alcohol aroma. Fruity esters dominate the aroma and are often reminiscent of citrus fruits such as oranges or lemons. A low to medium-high spicy or floral hop aroma is usually present. A moderate spice aroma (from actual spice additions and/or yeast-derived phenols) complements the other aromatics. When phenolics are present they tend to be peppery rather than clove-like. A low to moderate sourness or acidity may be present, but should not overwhelm other characteristics. Spice, hop and sour aromatics typically increase with the strength of the beer. Alcohols are soft, spicy and low in intensity, and should not be hot or solventy. The malt character is light. No diacetyl.
+Appearance: Often a distinctive pale orange but may be golden or amber in color. There is no correlation between strength and color. Long-lasting, dense, rocky white to ivory head resulting in characteristic &#8220;Belgian lace&#8221; on the glass as it fades. Clarity is poor to good though haze is not unexpected in this type of unfiltered farmhouse beer. Effervescent.
+Flavor: Combination of fruity and spicy flavors supported by a soft malt character, a low to moderate alcohol presence and tart sourness. Extremely high attenuation gives a characteristic dry finish. The fruitiness is frequently citrusy (orange- or lemon-like). The addition of one of more spices serve to add complexity, but shouldn&#8217;t dominate in the balance. Low peppery yeast-derived phenols may be present instead of or in addition to spice additions; phenols tend to be lower than in many other Belgian beers, and complement the bitterness. Hop flavor is low to moderate, and is generally spicy or earthy in character. Hop bitterness may be moderate to high, but should not overwhelm fruity esters, spices, and malt. Malt character is light but provides a sufficient background for the other flavors. A low to moderate tart sourness may be present, but should not overwhelm other flavors. Spices, hop bitterness and flavor, and sourness commonly increase with the strength of the beer while sweetness decreases. No hot alcohol or solventy character. High carbonation, moderately sulfate water, and high attenuation give a very dry finish with a long, bitter, sometimes spicy aftertaste. The perceived bitterness is often higher than the IBU level would suggest. No diacetyl.
+Mouthfeel: Light to medium body. Alcohol level can be medium to medium-high, though the warming character is low to medium. No hot alcohol or solventy character. Very high carbonation with an effervescent quality. There is enough prickly acidity on the tongue to balance the very dry finish. A low to moderate tart character may be present but should be refreshing and not to the point of puckering.</PROFILE>
+ <INGREDIENTS>Pilsner malt dominates the grist though a portion of Vienna and/or Munich malt contributes color and complexity. Sometimes contains other grains such as wheat and spelt. Adjuncts such as sugar and honey can also serve to add complexity and thin the body. Hop bitterness and flavor may be more noticeable than in many other Belgian styles. A saison is sometimes dry-hopped. Noble hops, Styrian or East Kent Goldings are commonly used. A wide variety of herbs and spices are often used to add complexity and uniqueness in the stronger versions, but should always meld well with the yeast and hop character. Varying degrees of acidity and/or sourness can be created by the use of gypsum, acidulated malt, a sour mash or Lactobacillus. Hard water, common to most of Wallonia, can accentuate the bitterness and dry finish.</INGREDIENTS>
+ <EXAMPLES>Saison Dupont Vieille Provision; Fant&#244;me Saison D&#8217;Erez&#233;e - Printemps; Saison de Pipaix; Saison Regal; Saison Voisin; Lefebvre Saison 1900; Ellezelloise Saison 2000; Saison Silly; Southampton Saison; New Belgium Saison; Pizza Port SPF 45; Lost Abbey Red Barn Ale; Ommegang Hennepin</EXAMPLES>
+ <DISPLAY_OG_MIN>1.048 SG</DISPLAY_OG_MIN>
+ <DISPLAY_OG_MAX>1.065 SG</DISPLAY_OG_MAX>
+ <DISPLAY_FG_MIN>1.002 SG</DISPLAY_FG_MIN>
+ <DISPLAY_FG_MAX>1.012 SG</DISPLAY_FG_MAX>
+ <DISPLAY_COLOR_MIN>5.0 SRM</DISPLAY_COLOR_MIN>
+ <DISPLAY_COLOR_MAX>14.0 SRM</DISPLAY_COLOR_MAX>
+ <OG_RANGE>1.048-1.065 SG</OG_RANGE>
+ <FG_RANGE>1.002-1.012 SG</FG_RANGE>
+ <IBU_RANGE>20.0-35.0 IBUs</IBU_RANGE>
+ <CARB_RANGE>2.30-2.90 Vols</CARB_RANGE>
+ <COLOR_RANGE>5.0-14.0 SRM</COLOR_RANGE>
+ <ABV_RANGE>5.00-7.00 %</ABV_RANGE>
+</STYLE>
+
+ <EQUIPMENT>
+ <NAME>Stainless Kegs (10 Gal/37.8 L) - All Grain</NAME>
+ <VERSION>1</VERSION>
+ <BOIL_SIZE>50.8762276</BOIL_SIZE>
+ <BATCH_SIZE>37.8543360</BATCH_SIZE>
+ <TUN_VOLUME>56.7815040</TUN_VOLUME>
+ <TUN_WEIGHT>9.0718400</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1500000</TUN_SPECIFIC_HEAT>
+ <TOP_UP_WATER>0.0000000</TOP_UP_WATER>
+ <TRUB_CHILLER_LOSS>3.7854336</TRUB_CHILLER_LOSS>
+ <EVAP_RATE>14.8809524</EVAP_RATE>
+ <BOIL_TIME>60.0000000</BOIL_TIME>
+ <CALC_BOIL_VOLUME>TRUE</CALC_BOIL_VOLUME>
+ <LAUTER_DEADSPACE>3.7854336</LAUTER_DEADSPACE>
+ <TOP_UP_KETTLE>0.0000000</TOP_UP_KETTLE>
+ <HOP_UTILIZATION>100.0000000</HOP_UTILIZATION>
+ <COOLING_LOSS_PCT>4.0000000</COOLING_LOSS_PCT>
+ <NOTES>Popular 10 gallon batch setup for all grain brewing.  Uses two large stainless 15 gal/58 l kegs for the boil pot and mash tun with the tops cut off the keg.  A third keg is often used as a pot to heat mash tun water.</NOTES>
+ <DISPLAY_BOIL_SIZE>13.44 gal</DISPLAY_BOIL_SIZE>
+ <DISPLAY_BATCH_SIZE>10.00 gal</DISPLAY_BATCH_SIZE>
+ <DISPLAY_TUN_VOLUME>15.00 gal</DISPLAY_TUN_VOLUME>
+ <DISPLAY_TUN_WEIGHT>20 lbs</DISPLAY_TUN_WEIGHT>
+ <DISPLAY_TOP_UP_WATER>0.00 gal</DISPLAY_TOP_UP_WATER>
+ <DISPLAY_TRUB_CHILLER_LOSS>1.00 gal</DISPLAY_TRUB_CHILLER_LOSS>
+ <DISPLAY_LAUTER_DEADSPACE>1.00 gal</DISPLAY_LAUTER_DEADSPACE>
+ <DISPLAY_TOP_UP_KETTLE>0.00 gal</DISPLAY_TOP_UP_KETTLE>
+</EQUIPMENT>
+
+ <MASH>
+ <NAME>Single Infusion, Light Body</NAME>
+ <VERSION>1</VERSION>
+ <GRAIN_TEMP>22.2222222</GRAIN_TEMP>
+ <TUN_TEMP>32.2222222</TUN_TEMP>
+ <SPARGE_TEMP>75.5555556</SPARGE_TEMP>
+ <PH>5.4000000</PH>
+ <TUN_WEIGHT>320.0000000</TUN_WEIGHT>
+ <TUN_SPECIFIC_HEAT>0.1500000</TUN_SPECIFIC_HEAT>
+ <EQUIP_ADJUST>TRUE</EQUIP_ADJUST>
+ <NOTES>Simple single infusion mash for use with most modern well modified grains (about 95% of the time).</NOTES>
+ <DISPLAY_GRAIN_TEMP>72.0 F</DISPLAY_GRAIN_TEMP>
+ <DISPLAY_TUN_TEMP>90.0 F</DISPLAY_TUN_TEMP>
+ <DISPLAY_SPARGE_TEMP>168.0 F</DISPLAY_SPARGE_TEMP>
+ <DISPLAY_TUN_WEIGHT>20 lbs</DISPLAY_TUN_WEIGHT>
+<MASH_STEPS>
+<MASH_STEP>
+ <NAME>Mash In</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Infusion</TYPE>
+ <INFUSE_AMOUNT>22.5347948</INFUSE_AMOUNT>
+ <STEP_TIME>75.0000000</STEP_TIME>
+ <STEP_TEMP>64.4444444</STEP_TEMP>
+ <RAMP_TIME>2.0000000</RAMP_TIME>
+ <END_TEMP>64.4444444</END_TEMP>
+ <DESCRIPTION>Add 27.81 qt of water at 159.6 F</DESCRIPTION>
+ <WATER_GRAIN_RATIO>1.250 qt/lb</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 qt</DECOCTION_AMT>
+ <INFUSE_TEMP>159.6 F</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>148.0 F</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>27.81 qt</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+<MASH_STEP>
+ <NAME>Mash Out</NAME>
+ <VERSION>1</VERSION>
+ <TYPE>Infusion</TYPE>
+ <INFUSE_AMOUNT>14.4222687</INFUSE_AMOUNT>
+ <STEP_TIME>10.0000000</STEP_TIME>
+ <STEP_TEMP>75.5555556</STEP_TEMP>
+ <RAMP_TIME>2.0000000</RAMP_TIME>
+ <END_TEMP>75.5555556</END_TEMP>
+ <DESCRIPTION>Add 15.24 qt of water at 210.9 F</DESCRIPTION>
+ <WATER_GRAIN_RATIO>2.260 qt/lb</WATER_GRAIN_RATIO>
+ <DECOCTION_AMT>0.00 qt</DECOCTION_AMT>
+ <INFUSE_TEMP>210.9 F</INFUSE_TEMP>
+ <DISPLAY_STEP_TEMP>168.0 F</DISPLAY_STEP_TEMP>
+ <DISPLAY_INFUSE_AMT>15.24 qt</DISPLAY_INFUSE_AMT>
+</MASH_STEP>
+</MASH_STEPS>
+
+</MASH>
+
+ <NOTES></NOTES>
+ <TASTE_NOTES></TASTE_NOTES>
+ <TASTE_RATING>30.0000000</TASTE_RATING>
+ <OG>1.0550000</OG>
+ <FG>1.0100000</FG>
+ <CARBONATION>2.3000000</CARBONATION>
+ <FERMENTATION_STAGES>1</FERMENTATION_STAGES>
+ <PRIMARY_AGE>14.0000000</PRIMARY_AGE>
+ <PRIMARY_TEMP>19.4444444</PRIMARY_TEMP>
+ <SECONDARY_AGE>10.0000000</SECONDARY_AGE>
+ <SECONDARY_TEMP>18.3333333</SECONDARY_TEMP>
+ <TERTIARY_AGE>7.0000000</TERTIARY_AGE>
+ <AGE>30.0000000</AGE>
+ <AGE_TEMP>18.3333333</AGE_TEMP>
+ <CARBONATION_USED>Keg with 12.54 PSI</CARBONATION_USED>
+ <FORCED_CARBONATION>FALSE</FORCED_CARBONATION>
+ <PRIMING_SUGAR_NAME>Forced Carbonation</PRIMING_SUGAR_NAME>
+ <PRIMING_SUGAR_EQUIV>1.0000000</PRIMING_SUGAR_EQUIV>
+ <KEG_PRIMING_FACTOR>0.5000000</KEG_PRIMING_FACTOR>
+ <CARBONATION_TEMP>7.2222222</CARBONATION_TEMP>
+ <DISPLAY_CARB_TEMP>45.0 F</DISPLAY_CARB_TEMP>
+ <DATE>06/02/2012</DATE>
+ <EST_OG>1.057 SG</EST_OG>
+ <EST_FG>1.006 SG</EST_FG>
+ <EST_COLOR>4.5 SRM</EST_COLOR>
+ <IBU>34.7 IBUs</IBU>
+ <IBU_METHOD>Tinseth</IBU_METHOD>
+ <EST_ABV>6.8 %</EST_ABV>
+ <ABV>5.9 %</ABV>
+ <ACTUAL_EFFICIENCY>29.0 %</ACTUAL_EFFICIENCY>
+ <CALORIES>182.3 kcal/12oz</CALORIES>
+ <DISPLAY_BATCH_SIZE>10.00 gal</DISPLAY_BATCH_SIZE>
+ <DISPLAY_BOIL_SIZE>13.44 gal</DISPLAY_BOIL_SIZE>
+ <DISPLAY_OG>1.055 SG</DISPLAY_OG>
+ <DISPLAY_FG>1.010 SG</DISPLAY_FG>
+ <DISPLAY_PRIMARY_TEMP>67.0 F</DISPLAY_PRIMARY_TEMP>
+ <DISPLAY_SECONDARY_TEMP>65.0 F</DISPLAY_SECONDARY_TEMP>
+ <DISPLAY_TERTIARY_TEMP>65.0 F</DISPLAY_TERTIARY_TEMP>
+ <DISPLAY_AGE_TEMP>65.0 F</DISPLAY_AGE_TEMP>
+</RECIPE>
+</RECIPES>
